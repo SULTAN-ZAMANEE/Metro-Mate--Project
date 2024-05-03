@@ -1,0 +1,18 @@
+58	Shubra		red
+59	Koleyet El Zeraat		red
+60	El Mazallat		red
+61	El Khalafawy		red
+62	St. Teresa		red
+63	Rod El Farag		red
+64	Massara		red
+37	Al Shohadaa		red
+19	Attaba		red
+65	M. Naguib		red
+39	Sadat		red
+66	Opera		red
+67	Dokki		red
+68	El Boghdady		red
+69	Faysal		red
+70	Giza		red
+71	Om El Masryeen		red
+72	Sakyat Makky		red
